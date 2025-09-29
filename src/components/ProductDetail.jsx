@@ -103,7 +103,7 @@ const ProductDetail = () => {
       </header>
 
       {/* Hero Section */}
-      <section className="section-padding bg-section mt-16">
+      <section className="section-padding bg-section">
         <div className="container">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
